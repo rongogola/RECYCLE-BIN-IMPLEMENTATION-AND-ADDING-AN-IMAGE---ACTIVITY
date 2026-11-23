@@ -1,0 +1,1 @@
+ALTER TABLE work_orders ADD issue_image VARCHAR(255) NULL AFTER issue_description;
